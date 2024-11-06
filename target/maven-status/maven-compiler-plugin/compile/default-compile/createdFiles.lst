@@ -1,0 +1,11 @@
+com\example\IndexServlet.class
+com\example\LoginServlet.class
+com\example\StudentCoursesDetailServlet.class
+com\example\TeacherCoursesServlet.class
+com\example\LogoutServlet.class
+com\example\StudentCoursesServlet.class
+com\example\DatabaseConnection.class
+com\example\UserPageServlet.class
+com\example\CourseDetailsServlet.class
+com\example\AllStudentsServlet.class
+com\example\CoursesServlet.class
